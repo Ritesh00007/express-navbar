@@ -11,13 +11,19 @@ This project is a Node.js/Express application that hosts three separate routes, 
 The application features a navbar built with flexbox that allows users to navigate between these routes. Each route redirects to the GitHub repository for the corresponding assignment.
 
 ## Project Structure
- .
- ├── public/
- │   ├── index.html     # Main HTML file with flexbox navbar
- │   └── styles.css     # CSS styling for the application
- ├── server.js          # Express server with route definitions
- ├── package.json       # Project dependencies
- └── README.md          # Project documentation
+.
+
+├── public/
+
+│   ├── index.html     # Main HTML file with flexbox navbar
+
+│   └── styles.css     # CSS styling for the application
+
+├── server.js          # Express server with route definitions
+
+├── package.json       # Project dependencies
+
+└── README.md          # Project documentation
 
 ## Installation Instructions
 
