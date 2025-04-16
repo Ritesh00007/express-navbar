@@ -8,6 +8,7 @@ Four Algorithms
 
 The application features a navbar built with flexbox that allows users to navigate between these routes. Each route redirects to the GitHub repository for the corresponding assignment.
 Project Structure
+
 .
 ├── public
 │   ├── index.html  <- Main HTML file with flexbox navbar
@@ -17,7 +18,9 @@ Project Structure
 └── README.md       <- Project documentation
 Installation Instructions
 
+
 Clone this repository:
+
 git clone https://github.com/yourusername/express-navbar-project.git
 cd express-navbar-project
 
