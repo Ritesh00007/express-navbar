@@ -12,12 +12,12 @@ The application features a navbar built with flexbox that allows users to naviga
 
 ## Project Structure
 .
-├── public
-│   ├── index.html  <- Main HTML file with flexbox navbar
-│   └── styles.css  <- CSS styling for the application
-├── server.js       <- Express server with route definitions
-├── package.json    <- Project dependencies
-└── README.md       <- Project documentation
+├── public/
+│   ├── index.html     # Main HTML file with flexbox navbar
+│   └── styles.css     # CSS styling for the application
+├── server.js          # Express server with route definitions
+├── package.json       # Project dependencies
+└── README.md          # Project documentation
 
 ## Installation Instructions
 
